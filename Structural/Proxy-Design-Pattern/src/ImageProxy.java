@@ -1,6 +1,6 @@
 public class ImageProxy implements Image {
     private RealImage realImage;
-    private String filename;
+    private final String filename;
 
     public ImageProxy(String filename) {
         this.filename = filename;
