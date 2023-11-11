@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e5743c-6402-48fe-a9aa-9f3023b04f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/Facade-Design-Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Facade-Design-Pattern/src/ShapeMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3a123100-32f0-4d25-bf19-069b0f4fe61f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facade-Design-Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridge-Design-Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bridge-Design-Pattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -30,19 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2Y1VDja7eKg3vBUjeuI74xszP8H" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2Y1WrbGAkk4YHJBq30DhuuZIzKP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -57,15 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32e5743c-6402-48fe-a9aa-9f3023b04f14" name="Changes" comment="" />
-      <created>1699692956617</created>
+      <changelist id="3a123100-32f0-4d25-bf19-069b0f4fe61f" name="Changes" comment="" />
+      <created>1699693766768</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699692956617</updated>
+      <updated>1699693766768</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
